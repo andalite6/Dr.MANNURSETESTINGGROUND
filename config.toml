@@ -1,0 +1,15 @@
+[app]
+name = "Secure API Client"
+version = "1.0.0"
+log_level = "INFO"
+timeout = 30
+
+[api.anthropic]
+base_url = "https://api.anthropic.com"
+default_model = "claude-3-sonnet-20240229"
+request_timeout = 60
+
+[api.openai]
+base_url = "https://api.openai.com/v1"
+default_model = "gpt-4"
+request_timeout = 45
