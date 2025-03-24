@@ -1,0 +1,9 @@
+# NEVER COMMIT THIS FILE WITH REAL KEYS!
+
+[api.anthropic]
+# Your Anthropic API key (starts with 'sk-ant-')
+api_key = "sk-ant-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+[api.openai]
+# Your OpenAI API key (starts with 'sk-')
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
