@@ -1,0 +1,4 @@
+requests>=2.28.0
+python-dotenv>=0.20.0
+tomli>=2.0.0;python_version<"3.11"
+tomli-w>=1.0.0
